@@ -44,7 +44,7 @@
 <a href="https://codepen.io/oandrezito" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-oandrezito-05122A?style=flat&logo=codepen" alt="codepen"/>
 </a>
-<a href="https://twitter.com/oandrezito" target="_blank">
+<a href="https://twitter.com/oandrezitoo" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-oandrezito-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://linkedin.com/in/oandrefernando1" target="_blank">
