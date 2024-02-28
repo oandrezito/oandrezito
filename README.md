@@ -1,12 +1,12 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/oandrezito/7c1ab65e51760c4b34d4239deede265f/raw/d41f4ac3acc4dc60c49e89d454d6be9d6a8c1367/githubcard.svg"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Andre Fernando</h1>
+<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Andre Fernando</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oandrezito&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 On a Journey to Become a Programmer, Driven by Technology
+- 🔥 Em uma jornada para se tornar um programador, impulsionado pela tecnologia.
 
-- 💬 Ask me about **JavaScript, HTML, CSS, Python**
+- 💬 Tecnologias **JavaScript, HTML, CSS, Astro, Python**
 
-- 👨‍💻 More at [oandrezito.github.io](https://oandrezito.github.io/DevLinks/)
+- 👨‍💻 Saiba mais em [oandrezito.github.io](https://oandrezito.github.io/DevLinks/)
 
 <!--
 
@@ -38,7 +38,7 @@
 
 <br><br>
 
-## Contact
+## Contatos
 
 <p align="left" style="background:yellow">
 <a href="https://codepen.io/oandrezito" target="_blank">
