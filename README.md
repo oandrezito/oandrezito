@@ -1,10 +1,6 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/oandrezito/7c1ab65e51760c4b34d4239deede265f/raw/d41f4ac3acc4dc60c49e89d454d6be9d6a8c1367/githubcard.svg"/>
+
 <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, Eu sou o Andre Fernando</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oandrezito&color=yellow" alt="Profile views" /> </p>
-
-- 🔥 Em uma jornada para me tornar um programador, impulsionado pela tecnologia.
-
-- 💬 Tecnologias **JavaScript, HTML, CSS, Astro, Python**
 
 - 👨‍💻 Saiba mais em [oandrezito.github.io](https://oandrezito.github.io/DevLinks/)
 
